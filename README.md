@@ -1,12 +1,10 @@
 # Pixelate
 
-An editor for your 8-bit art!
+### Goal
+We'll be building a small editor for making 8-bit art! You'll be able to re-create characters from all your favorite classic video games! Oh, and you'll also practice event handling and delegation, DOM manipulation, and some basic CSS.
 
-To get started:
+### Starting Poing
+![pixelate-01](https://user-images.githubusercontent.com/1072872/169277852-4c7f6cbf-78de-447c-8f4d-3a76f3b2f738.png)
 
-* `npm install`
-* `npm start`
-
-This will start a small http server, which will serve up the index.html file, as well as any "static resources" (that is, CSS and JS files, as well as fonts) that the index.html requests (via `link` and `script` tags). You can view the page by opening `http://localhost:8080/` in your browser!
-
-You can add your own CSS to `style.css`, and JavaScript to `script.js`! For further instruction, refer to the workshop. Have fun!
+### Workshop Goal
+![pixelate-02](https://user-images.githubusercontent.com/1072872/169277883-fef8b2fa-60e6-4630-a501-cdabb474b7cb.png)
